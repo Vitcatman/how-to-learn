@@ -3,12 +3,10 @@
   font-size: 18px;
   font-weight: normal;
   text-decoration: none;
-  display:inline-block;
-  color: #FFFFFF;
-
+  display: inline-block;
+  color: #ffffff;
 }
 
 .footer__column-link:hover {
   opacity: 0.3;
 }
-
