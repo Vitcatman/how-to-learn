@@ -19,4 +19,5 @@
 ## Ссылки
 
 [Project on GitHub](https://github.com/Vitcatman/how-to-learn)
+
 [Курс Yandex Praktikum](https://praktikum.yandex.ru/profile/web-plus/)
